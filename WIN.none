@@ -1,2 +1,3 @@
 ;Replace such others via this..
-Step1=/Replace/WIN/Step1.none
+Step1=\Step1.none
+Step2=\Step2.none
